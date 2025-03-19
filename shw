@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .link-box {
+            margin: 15px 0;
+            padding: 10px;
+            background-color: #f4f4f4;
+            border-radius: 5px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Meus Links</h1>
+        <div class="link-box">
+            <a href="http://T.me/+5531999499999" target="_blank">Contato</a>
+        </div>
+        <div class="link-box">
+            <a href="https://t.me/caosstore_referencia" target="_blank">Trampo</a>
+        </div>
+        <div class="link-box">
+            <a href="http://t.me/addlist/1_uI3PIiuR9mNzgx" target="_blank">Projects Database</a>
+        </div>
+    </div>
+</body>
+</html>
